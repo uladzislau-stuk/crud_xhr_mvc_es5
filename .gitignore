@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# User specific project settings for WebIDE
+.user.project.json
+
+# IDE project settings
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
